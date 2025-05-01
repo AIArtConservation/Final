@@ -1,0 +1,7 @@
+ipykernel
+ipywidgets
+diffusers
+torch
+torchvision
+transformers
+scipy
